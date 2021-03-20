@@ -2,6 +2,20 @@
 
 ## [Unreleased]
 
+### Added
+
+-   [#235](https://github.com/mwalbeck/nextcloud-breeze-dark/issues/235) Polish translation. Thanks @Valdnet
+-   [#236](https://github.com/mwalbeck/nextcloud-breeze-dark/issues/236) Transifex config
+-   [#228](https://github.com/mwalbeck/nextcloud-breeze-dark/issues/228) Switch body class from theme--light to theme--dark and theme--breezedark when theme is active.
+
+### Fixed
+
+-   [#235](https://github.com/mwalbeck/nextcloud-breeze-dark/issues/235) Fix translation support. Thanks @Valdnet
+
+### Removed
+
+-   [#238](https://github.com/mwalbeck/nextcloud-breeze-dark/issues/238) Styling for logreader as it was redundant.
+
 ## 21.0.5 - 2021-03-16
 
 -   Re-release of 21.0.4
